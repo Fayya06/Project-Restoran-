@@ -20,14 +20,14 @@ $makanan4 = "Mie Tek Tek";
 $makanan5 = "Bakso";
 
 if($makanan1){
-    echo "Harga = 15000"
+    echo "Harga = 15000";
 };
-
 else{
     if($makanan2){
         echo "Harga = 10000"
     };
-else{
+
+    
     if($makanan3){
         echo "Harga = 10000"
     };
