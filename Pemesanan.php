@@ -34,8 +34,9 @@ include 'Menu.php';
     <tr>
     </tr>
         <button name="sub" class="btn"> Submit </button>
-        
+
     </table>
+    
 
 </body>
 </html>
